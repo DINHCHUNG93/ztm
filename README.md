@@ -1,3 +1,12 @@
+
+ZTM (Zero Trust Mesh) – Xây dựng Mạng lưới Zero-Trust mà không cần cơ sở hạ tầng VPN truyền thống
+
+Zero Trust Mesh (ZTM) là một nền tảng mạng phi tập trung nguồn mở, cho phép kết nối an toàn, dựa trên chứng chỉ giữa các thiết bị mà không phụ thuộc vào các kiến trúc VPN tập trung. Được xây dựng trên các đường hầm HTTP/2 và động cơ proxy có thể lập trình Pipy hiệu suất cao, ZTM tạo ra các mạng lưới được mã hóa có khả năng di chuyển tường lửa và NAT đồng thời hỗ trợ truyền thông an toàn trên các mạng địa phương, môi trường đám mây, container và Internet công cộng. Ngoài mạng, ZTM cung cấp một nền tảng để triển khai các ứng dụng phi tập trung thông qua các dịch vụ tích hợp như đường hầm TCP/UDP an toàn, truy cập đầu cuối từ xa, kịch bản có thể lập trình với PipyJS, dịch vụ proxy và chia sẻ tệp đồng nghiệp. Kiến trúc có thể mở rộng của nó cũng hỗ trợ bổ sung và tích hợp bên thứ ba, cho phép nhà phát triển xây dựng ứng dụng tùy chỉnh và tự động hóa trên cùng của lưới. Hỗ trợ trên khắp nền tảng, xác thực dựa trên chứng chỉ, chính sách bảo mật tùy chỉnh, quản lý dựa trên trình duyệt và mạng có thể lập trình giúp ZTM phù hợp với các quản trị từ xa an toàn, cơ sở hạ tầng không tin cậy của doanh nghiệp, homelabs, máy tính cạnh, môi trường lai đám mây và hệ thống phân phối.
+
+🔗 Bản repo đã có trong Phần Bình luận.
+
+#ZeroTrust #MeshNetworking #p2p #networking #Rust #DevOps #opensource #cybersecurity
+
 <p align="center">
   <img width="150px" height="150px" src="https://flomesh.io/img/ztm.png" />
 </p>
